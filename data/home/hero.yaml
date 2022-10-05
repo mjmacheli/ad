@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Achieve Your  **Body Goal Now**"
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+
+  buttonPrimary:
+    label: "Download the app"
+    url: "#"
+
+  buttonSecondary:
+    label: "Sign up"
+    url: ""
+
