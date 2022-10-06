@@ -3,7 +3,7 @@ id: "cta"
 
 content:
   title: "Start your gym Journey with us"
-  image: "images/journey.jpg"
+  # image: "images/journey.jpg"
   button:
     label: "Sign Up Now"
     url: "#"
