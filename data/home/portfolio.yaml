@@ -2,7 +2,7 @@ enabled: true
 id: "start your journey today"
 
 content:
-  - image: "images/portfolio-ecommerce.png"
+  - image: "images/gym-plan.jpg"
     pretitle: "Features"
     title: "Choose a gym plan curated by experts"
     text: " Students are therefore provided with a gym plan that is proven by experies, which will guide them reach their body goal"
@@ -12,7 +12,7 @@ content:
 
       
 
-  - image: "images/portfolio-ecommerce.png"
+  - image: "images/gym-plan2.jpg"
     pretitle: "Features"
     title: "Follow a plan to get results"
     text: " By following the plan provided, this will have a great impact in terms of the students achieving their body goal."
@@ -23,7 +23,7 @@ content:
 
       
 
-  - image: "images/portfolio-ecommerce.png"
+  - image: "images/schedule.jpg"
     pretitle: "Features"
     title: "Get a custom gym schedule to help meet goals,"
     text: "Students will be able to see their rest days together with days that they ahve to workout because resting is essential for building muscle "
@@ -35,7 +35,7 @@ content:
       
 
 
-  - image: "images/portfolio-ecommerce.png"
+  - image: "images/journey.jpg"
     pretitle: "Features"
     title: "Document your gym journey"
     text: "Students will be able to see a status bar which keeps track of their journey in achieving their body goal"
