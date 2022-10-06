@@ -3,37 +3,45 @@ id: "start your journey today"
 
 content:
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "How it works"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Features"
+    title: "Choose a gym plan curated by experts"
+    text: " Students are therefore provided with a gym plan that is proven by experies, which will guide them reach their body goal"
 
     buttons: 
-      - label: "read more"
-        url: "#"
+      
 
-      - label: "Read more"
-        url: "#"
+      
 
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "How it works"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Features"
+    title: "Follow a plan to get results"
+    text: " By following the plan provided, this will have a great impact in terms of the students achieving their body goal."
 
     buttons: 
       - label: "See live"
         url: "#"
 
-      - label: "Read more"
-        url: "#"
+      
 
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "How it works"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Features"
+    title: "Get a custom gym schedule to help meet goals,"
+    text: "Students will be able to see their rest days together with days that they ahve to workout because resting is essential for building muscle "
 
     buttons: 
       - label: "See live"
         url: "#"
 
-      - label: "Read more"
+      
+
+
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Features"
+    title: "Document your gym journey"
+    text: "Students will be able to see a status bar which keeps track of their journey in achieving their body goal"
+
+    buttons: 
+      - label: "See live"
         url: "#"
+
+      

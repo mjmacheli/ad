@@ -10,7 +10,7 @@ summaryLength: 20
 
 params:
   title: "Get your body UJ"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  description: "work that summer body while at school"
   images: 
     - "images/hero-image.png"
 
@@ -22,18 +22,17 @@ params:
     faviconColor: "#000000"
 
   social:
-    dribbble: "#"
     instagram: "#"
     facebook: "#"
     twitter: "#"
 
   location:
-    - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
+    - "Uj Gym Auckland Park"
+    # - "4517 Washington Ave. Manchester, Kentucky 39495"
 
   contact:
-    - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+    - "gym@uj.ac.za"
+    - "011.555.0119"
 
   copyright: "© 2022 Get your body UJ All Rights Reserved"
 
@@ -51,16 +50,16 @@ menus:
     #   url: "/#"
     #   weight: 3
 
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
+    # - name: "Pricing"
+    #   url: "/#"
+    #   weight: 4
 
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
+    # - name: "Blog"
+    #   url: "/blog"
+    #   weight: 5
 
   buttons:
-    - name: "Book a call"
+    - name: "Sign Up Now"
       url: "/#"
       weight: 5
       pre: "btn btn-primary text-light"
